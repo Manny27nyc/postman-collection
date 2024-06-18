@@ -41,7 +41,7 @@
     "mime-format": "2.0.1",
     "mime-types": "2.1.32",
     "postman-url-encoder": "3.0.5",
-    "semver": "7.3.5",
+    "semver": "7.5.2",
     "uuid": "8.3.2"
   },
   "devDependencies": {
@@ -59,7 +59,7 @@
     "eslint-plugin-mocha": "^9.0.0",
     "eslint-plugin-security": "^1.4.0",
     "js-yaml": "^4.1.0",
-    "jsdoc": "^3.6.7",
+    "jsdoc": "^4.0.3",
     "karma": "^6.3.4",
     "karma-browserify": "^8.1.0",
     "karma-chrome-launcher": "^3.1.0",
